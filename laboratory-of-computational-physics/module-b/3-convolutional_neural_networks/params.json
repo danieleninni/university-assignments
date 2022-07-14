@@ -1,0 +1,7562 @@
+[
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "relu",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "tanh",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softplus",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.0,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.1,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.2,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.3,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "Adam",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-06,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2e-05,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.0002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.002,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.02,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 0.2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 2,
+        "reg_type": "Combined"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Lasso"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Ridge"
+    },
+    {
+        "activation": "softsign",
+        "dropout_rate": 0.4,
+        "optimizer": "RMSProp",
+        "reg_lambda": 20,
+        "reg_type": "Combined"
+    }
+]
