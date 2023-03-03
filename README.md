@@ -14,6 +14,10 @@ This repository aims to be a **coding portfolio** consisting of all the universi
 
   - final project | [Parking lot occupancy detection using YOLOv5](https://github.com/danieleninni/parking-lot-occupancy-detection-yolo)
 
+### - [*Human Data Analytics*](https://en.didattica.unipd.it/off/2022/LM/SC/SC2377/001PD/SCP7079397/N0)
+
+  - final project | [Small-footprint keyword spotting](https://github.com/danieleninni/small-footprint-keyword-spotting)
+
 ### - [*Laboratory of Computational Physics (Module A)*](https://en.didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082525/N0)
 
   - final project | [Implementation and optimization of the mean-timer technique in drift tube detectors](https://github.com/danieleninni/mean-timer-technique-drift-tube-detectors)
@@ -31,8 +35,6 @@ This repository aims to be a **coding portfolio** consisting of all the universi
 ### - [*Management and Analysis of Physics Dataset (Module B)*](https://en.didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP8082535/N0)
 
   - final project | [Streaming processing of cosmic rays using drift tube detectors](https://github.com/danieleninni/streaming-processing-cosmic-rays)
-
-### - . . .
 
 ***
 
