@@ -36,6 +36,10 @@ This repository aims to be a **coding portfolio** consisting of all the universi
 
   - final project | [Streaming processing of cosmic rays using drift tube detectors](https://github.com/danieleninni/streaming-processing-cosmic-rays)
 
+### - [*Neural Networks and Deep Learning*](https://en.didattica.unipd.it/off/2021/LM/SC/SC2443/000ZZ/SCP9087899/N0)
+
+  - final project | [Image style transfer using deep learning](https://github.com/danieleninni/neural-style-transfer)
+
 ***
 
 <h5 align="center">Physics of Data<br>University of Padua</h5>
